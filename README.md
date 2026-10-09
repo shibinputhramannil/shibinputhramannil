@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Focus-Python%20Full%20Stack-blue?style=flat&logo=python" alt="Focus" />
 </p>
 
+<p align="center">
+  ⭐ <b>Featured Open Source:</b> <a href="https://github.com/shibinputhramannil/awesome-python-fullstack-roadmap"><b>Awesome Python Full Stack Roadmap 2026</b></a> (Roadmap, System Design & Interview Q&As)
+</p>
+
 ---
 
 ### 🐍 GitHub Contribution Grid (Snake Animation)
