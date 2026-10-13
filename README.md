@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shibinputhramannil/shibinputhramannil/main/assets/header.jpg" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/shibinputhramannil/shibinputhramannil/main/assets/banner.gif" width="100%" alt="Header Banner" />
 </p>
 
-<h1 align="center">Shibin P</h1>
+<h1 align="center">sibin p</h1>
 <h3 align="center">Python Full-Stack Developer · FastAPI & React · Cloud & DevOps</h3>
 
 <p align="center">
