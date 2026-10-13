@@ -1,5 +1,15 @@
-# Hi there, I'm Shibin P 👋
-### 🐍 Python Full Stack Developer
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shibinputhramannil/shibinputhramannil/main/assets/header.jpg" width="100%" alt="Header Banner" />
+</p>
+
+<h1 align="center">Shibin P</h1>
+<h3 align="center">Python Full-Stack Developer · FastAPI & React · Cloud & DevOps</h3>
+
+<p align="center">
+  <a href="https://github.com/shibinputhramannil">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=650&height=40&lines=Building+scalable+backend+systems+with+FastAPI+%26+Django;Crafting+modern+reactive+frontends+with+React+%26+Next.js;Containerizing+%26+deploying+with+Docker%2C+Linux+%26+AWS" alt="Typing SVG" />
+  </a>
+</p>
 
 
 <p align="center">
